@@ -46,6 +46,6 @@ The project is divided into four sections:
     (what missing in this project is the actual application)
 ~~~
 
-The first and second points are covered in the notebook ''.\
-The third and fourth points are covered in the notebook ''.\
+The first and second points are covered in the notebook 'Cleaning_notebook'.\
+The third and fourth points are covered in the notebook 'Analysis_notebook'.\
 Finally a powerpoint presentation of the project is also included.
