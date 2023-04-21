@@ -4,8 +4,8 @@ The project is an idea for food-related application using Open Food Facts data.
 
 The idea is a product recommendation based on nutrition score of the food.
 
-  I- User input the product name or scan the barcode of the product.
-    II- Application search for the product in the database and the nutritional information related to the product.
+  I- User input the product name or scan the barcode of the product.\
+    II- Application search for the product in the database and the nutritional information related to the product.\
         If the product is not in the database, the application output to the user that the product in not found in the database.
         If the product is in the database, the application proceed to the next step.
             III- Application check of the product:
