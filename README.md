@@ -1,7 +1,5 @@
 # Data-Analysis-of-Public-Health-Data
-The project is an idea for food-related application using Open Food Facts data.
-
-![image](https://user-images.githubusercontent.com/64427335/233734105-331c248c-4322-4aff-8549-76a5fc916612.png)
+The project is an idea for food-related application using Open Food Facts data. ![image](https://user-images.githubusercontent.com/64427335/233734105-331c248c-4322-4aff-8549-76a5fc916612.png)
 
 The idea is a product recommendation based on nutrition score of the food.
 
