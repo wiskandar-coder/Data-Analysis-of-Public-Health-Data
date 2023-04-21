@@ -1,8 +1,12 @@
 # Data-Analysis-of-Public-Health-Data
 The project is an idea for food-related application using Open Food Facts data.
 
+![image](https://user-images.githubusercontent.com/64427335/233734105-331c248c-4322-4aff-8549-76a5fc916612.png)
 
 The idea is a product recommendation based on nutrition score of the food.
+
+![image](https://user-images.githubusercontent.com/64427335/233734187-ef41d2b2-0fce-4399-bde3-8ab7a6d33674.png)
+
 ~~~
 I- User input the product name or scan the barcode of the product.
 II- Application search for the product in the database and the nutritional information related to the product.
