@@ -50,4 +50,4 @@ The project is divided into four sections:
 
 The first and second points are covered in the notebook 'Cleaning_notebook'.\
 The third and fourth points are covered in the notebook 'Analysis_notebook'.\
-Finally a powerpoint presentation of the project is also included.
+A powerpoint presentation of the project can be shared under request.
